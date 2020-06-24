@@ -3,5 +3,6 @@ module.exports = {
     mongoOptions: {
         useNewUrlParser: true,
         useUnifiedTopology: true
-    }
+    },
+    jwt: 'dev-jwt'
 }
